@@ -1,0 +1,10 @@
+[
+  {
+    "pesoToneladas": 10.0,
+    "mantencionAlDia": true,
+    "certificacionSeguridad": false,
+    "codigo": "MAQ-EXC01",
+    "horasUso": 30,
+    "potencia": 100.0
+  }
+]
